@@ -1,5 +1,5 @@
 {
-  "name": "lit-html",
+  "name": "lit-html-example",
   "version": "1.0.0",
   "description": "A basic example of lit-html",
   "main": "server.js",
@@ -12,5 +12,9 @@
     "url": "git+https://github.com/aiesoftware/lit-html-example.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lit-html": "^1.0.0"
+  }
 }
